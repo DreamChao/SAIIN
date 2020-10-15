@@ -14,33 +14,9 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Xidian University
-  url: "https://www.xidian.edu.cn/"
+- name: Stanford University
+  url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: Some of the questions that guide our research:
-
-1. How does the mind learn to represent the causal structure of the world?
-2. What is the relationship between causal thinking and counterfactual simulation?
-3. How do we hold others responsible for the outcomes of their actions?
-In our research, we formalize people’s mental models as computational models that yield quantitative predictions about a wide range of situations. To test these predictions, we use a combination of large-scale online experiments, interactive experiments in the lab, and eye-tracking experiments.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
