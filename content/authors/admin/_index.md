@@ -15,7 +15,7 @@ role: Professor of Artificial Intelligence
 # Organizations/Affiliations
 organizations:
 - name: Xidian University
-  url: ""
+  url: "https://www.xidian.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Some of the questions that guide our research:
