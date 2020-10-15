@@ -8,7 +8,7 @@ active = false  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "Meet the Team"
-subtitle = ""
+subtitle = "…… who are doing the work"
 
 [content]
   # Choose which groups/teams of users to display.
